@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: 696960135893.dkr.ecr.eu-west-1.amazonaws.com/shuja-alb
-  tag: c41a5ae132e61090c2363169972cf7c52f10a3ba
+  tag: 90fadd98a052e2927a8f1e2ffb7f65d209de760b
   pullPolicy: Always
 
 service:
